@@ -38,3 +38,15 @@ body{
 .aic{
   align-items: center;
 }
+@media (max-width: 768px){
+  .grid-4, .grid-6{
+    grid-template-columns: 1fr
+  }
+  .thumbnail{ 
+    width: 80% !important; 
+  }
+  .thumbnail img{
+      width: 100% !important;
+      height: 480px;
+  }
+}
