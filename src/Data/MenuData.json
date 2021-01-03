@@ -1,0 +1,34 @@
+{
+    "data" : [
+        {
+            "title" : "Lord of the Rings",
+            "posterLink": "https://alternativemovieposters.com/wp-content/uploads/2020/08/AhmedFahmy_FellowshipOTR.jpg",
+            "link" : "/lordoftherings"
+        },
+        {
+            "title" : "Assassin's Creed",
+            "posterLink": "https://ik.imagekit.io/hbj42mvqwv/AC_xjPEdMgM3.jpg",
+            "link" : "/assassinscreed"
+        },
+        {
+            "title" : "Harry Potter",
+            "posterLink": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c6133466-0406-40f1-a7b2-f2ae6aeb9a6d/dauprs1-8a1df617-37cb-407e-b67b-0f9dea74385f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYzYxMzM0NjYtMDQwNi00MGYxLWE3YjItZjJhZTZhZWI5YTZkXC9kYXVwcnMxLThhMWRmNjE3LTM3Y2ItNDA3ZS1iNjdiLTBmOWRlYTc0Mzg1Zi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.CLJ4G6H9igTVcRnRUDbHEe6Uf1Fh_rEC4Lkvsw1tWf0",
+            "link" : "/harrypotter"
+        },
+        {
+            "title" : "God of War",
+            "posterLink": "https://ik.imagekit.io/hbj42mvqwv/GOW_bWLuFhmR16.jpg",
+            "link" : "/godofwar"
+        },
+        {
+            "title" : "Grand Theft Auto",
+            "posterLink": "https://ik.imagekit.io/hbj42mvqwv/GTA_bEDbN2c4q.jpg",
+            "link" : "/grandtheftauto"
+        },
+        {
+            "title" : "Witcher",
+            "posterLink": "https://store-images.s-microsoft.com/image/apps.28990.69531514236615003.8f0d03d6-6311-4c21-a151-834503c2901a.d629260e-2bc4-4588-950c-f278cbc22a64",
+            "link" : "/witcher"
+        }
+    ]
+}

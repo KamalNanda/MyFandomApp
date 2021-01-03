@@ -1,0 +1,40 @@
+:root{
+  --red : #c72626;
+}
+body{
+  margin:0;
+  padding: 0 0 80px 0;
+  height: 100vh;
+  background: grey;
+  font-family: sans-serif  ;
+}
+.App{
+  font-family: sans-serif   ;
+  position: relative;
+}
+.grid-4{
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  display: grid;
+  grid-gap: 80px 20px; 
+}
+.grid-6{
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  display: grid;
+  grid-gap: 80px 20px; 
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+.container-fluid{
+  width: 100%;
+}
+.flex{
+  display:flex;
+}
+.jcsb{
+  justify-content: space-between;
+}
+.aic{
+  align-items: center;
+}
